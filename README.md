@@ -1,0 +1,2 @@
+# ghost
+class ghost repo
